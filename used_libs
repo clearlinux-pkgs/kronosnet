@@ -1,0 +1,15 @@
+libbz2.so.1.0
+libc.so.6
+libcrypto.so.1.1
+libdl.so.2
+liblz4.so.1
+liblzma.so.5
+liblzo2.so.2
+libnl-3.so.200
+libnl-route-3.so.200
+libnspr4.so
+libnss3.so
+libplds4.so
+libpthread.so.0
+libz.so.1
+libzstd.so.1

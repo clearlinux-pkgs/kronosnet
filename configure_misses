@@ -1,0 +1,7 @@
+Configure miss: cov-build
+Configure miss: cov-analyze
+Configure miss: cov-format-errors
+Configure miss: kevent
+Configure miss: BSD date
+Configure miss: source epoch in $SOURCE_EPOCH
+Configure miss: source epoch in source_epoch file
