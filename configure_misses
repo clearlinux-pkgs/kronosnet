@@ -1,7 +1,11 @@
-Configure miss: cov-build
-Configure miss: cov-analyze
-Configure miss: cov-format-errors
-Configure miss: kevent
 Configure miss: BSD date
+Configure miss: cov-analyze
+Configure miss: cov-build
+Configure miss: cov-format-errors
+Configure miss: gcc options needed to detect all undeclared functions
+Configure miss: kevent
 Configure miss: source epoch in $SOURCE_EPOCH
 Configure miss: source epoch in source_epoch file
+Configure miss: whether gcc supports "-fplugin=annobin"
+Configure miss: whether gcc supports "-mcet"
+Configure miss: x86_64-generic-linux-gnu-file

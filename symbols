@@ -9,6 +9,9 @@ libknet.so.1:knet_handle_add_datafd
 libknet.so.1:knet_handle_clear_stats
 libknet.so.1:knet_handle_compress
 libknet.so.1:knet_handle_crypto
+libknet.so.1:knet_handle_crypto_rx_clear_traffic
+libknet.so.1:knet_handle_crypto_set_config
+libknet.so.1:knet_handle_crypto_use_config
 libknet.so.1:knet_handle_enable_access_lists
 libknet.so.1:knet_handle_enable_filter
 libknet.so.1:knet_handle_enable_pmtud_notify
